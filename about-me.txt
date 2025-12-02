@@ -1,1 +1,1 @@
-This is an about text file.
+This is an about text file of a person for the user profile.
